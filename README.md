@@ -1,6 +1,6 @@
 <!-- algo x: introducir algo en blanco aquí -->
 
-# Cómo crear un Pull Request (PR) — Guía breve
+# Cómo crear un Pull Request (PR) — Guía breve / Maria Macia
 
 Esta es una guía corta en español para crear un Pull Request en GitHub. Está pensada para estudiantes que están aprendiendo el flujo básico de trabajo con Git.
 
